@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1723085945 source:c:\users\dabbour\downloads\x-o game with ai player\main.cpp
+	<iostream>
+	<random>
+
